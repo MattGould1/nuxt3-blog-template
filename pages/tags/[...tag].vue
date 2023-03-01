@@ -26,7 +26,7 @@ useHead({
           :title="item.title ?? ''"
           :description="item.description"
           :path="item._path ?? ''"
-          :image="item.imag"
+          :image="item.image"
         ></blog-card>
       </v-col>
     </v-row>

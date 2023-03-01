@@ -19,6 +19,10 @@
             indefinitely.
           </v-card-text>
           <v-card-text> Good luck on your deving. </v-card-text>
+          <v-card-text>
+            Oh and here's an image because we need those
+          </v-card-text>
+          <v-img src="content/light-bulb-lamps.jpg"></v-img>
         </v-card>
       </v-col>
     </v-row>
