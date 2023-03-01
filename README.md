@@ -1,5 +1,7 @@
 # Nuxt 3 Blog Starter
 
+[View Live](https://nuxt3-blog-starter-template.netlify.app/)
+
 ## Setup
 
 ```bash
